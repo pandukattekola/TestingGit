@@ -15,9 +15,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package spark;
+package test
 
-import java.util.HashMap;
+import java.util.HashMap2;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
